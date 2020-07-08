@@ -3,6 +3,7 @@ checkpoints/*
 tensorboard/*
 data/train/*
 data/test/*
+temp/*
 log/*
 *.sh
 result/*/*
